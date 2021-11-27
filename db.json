@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Milon Hossen",
+      "gender": "male",
+      "location": "Dhaka"
+    },
+    {
+      "id": "2",
+      "name": "Shohan Hossen",
+      "gender": "male",
+      "location": "Mirpur"
+    },
+    {
+      "id": "3",
+      "name": "Selim",
+      "gender": "male",
+      "location": "Dhaka"
+    },
+    {
+      "id": "4",
+      "name": "Rabbi",
+      "gender": "male",
+      "location": "Mirpur"
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "name": "admin"
+    },
+    {
+      "id": "2",
+      "name": "staff"
+    },
+    {
+      "id": "3",
+      "name": "teacher"
+    },
+    {
+      "id": "4",
+      "name": "student"
+    }
+  ]
+}
