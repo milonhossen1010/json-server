@@ -1,62 +1,46 @@
-[
-  {
-    "id": 1,
-    "name": "MCCO4rrQ3h",
-    "online": false,
-    "picture": "https://picsum.photos/seed/92/60/60"
-  },
-  {
-    "id": 2,
-    "name": "kIfSa6kPqH",
-    "online": true,
-    "picture": "https://picsum.photos/seed/17/60/60"
-  },
-  {
-    "id": 3,
-    "name": "mVF6AYhDmy",
-    "online": false,
-    "picture": "https://picsum.photos/seed/60/60/60"
-  },
-  {
-    "id": 4,
-    "name": "4SREPIfWZS",
-    "online": false,
-    "picture": "https://picsum.photos/seed/92/60/60"
-  },
-  {
-    "id": 5,
-    "name": "tVESZv0yA4",
-    "online": true,
-    "picture": "https://picsum.photos/seed/72/60/60"
-  },
-  {
-    "id": 6,
-    "name": "ckk0rDNSH0",
-    "online": true,
-    "picture": "https://picsum.photos/seed/81/60/60"
-  },
-  {
-    "id": 7,
-    "name": "WYZV0ihpQI",
-    "online": true,
-    "picture": "https://picsum.photos/seed/38/60/60"
-  },
-  {
-    "id": 8,
-    "name": "94gmGECwM3",
-    "online": true,
-    "picture": "https://picsum.photos/seed/86/60/60"
-  },
-  {
-    "id": 9,
-    "name": "hSidpJf82a",
-    "online": false,
-    "picture": "https://picsum.photos/seed/97/60/60"
-  },
-  {
-    "id": 10,
-    "name": "MmA4uTJ9Bh",
-    "online": true,
-    "picture": "https://picsum.photos/seed/72/60/60"
-  }
-]
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Milon Hossen",
+      "gender": "male",
+      "location": "Dhaka"
+    },
+    {
+      "id": "2",
+      "name": "Shohan Hossen",
+      "gender": "male",
+      "location": "Mirpur"
+    },
+    {
+      "id": "3",
+      "name": "Selim",
+      "gender": "male",
+      "location": "Dhaka"
+    },
+    {
+      "id": "4",
+      "name": "Rabbi",
+      "gender": "male",
+      "location": "Mirpur"
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "name": "admin"
+    },
+    {
+      "id": "2",
+      "name": "staff"
+    },
+    {
+      "id": "3",
+      "name": "teacher"
+    },
+    {
+      "id": "4",
+      "name": "student"
+    }
+  ]
+}
